@@ -1,0 +1,7 @@
+{
+  "titulo": "Mi artículo genial",
+  "numVisitas": 1000,
+  "numlikes": 250,
+  "temas": ["tecnología", "ciencia", "programación"],
+  "esPublico": true
+}
